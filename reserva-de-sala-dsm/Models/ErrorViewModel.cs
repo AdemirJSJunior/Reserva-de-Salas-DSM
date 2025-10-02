@@ -1,4 +1,4 @@
-namespace reserva_de_sala_dsm.Models
+﻿namespace reserva_de_sala_dsm.Models
 {
     public class ErrorViewModel
     {

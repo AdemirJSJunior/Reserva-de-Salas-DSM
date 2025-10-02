@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.RazorAssemblyInfo.cache
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.RazorAssemblyInfo.cs
+C:\Users\Aluno\Desktop\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.sourcelink.json
