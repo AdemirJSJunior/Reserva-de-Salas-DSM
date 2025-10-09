@@ -1,0 +1,33 @@
+﻿@model reserva_de_sala_dsm.Models.Usuario
+
+@{
+    ViewData["Title"] = "Cadastrar Usuário";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-asp-controller="Usuario" asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Admnistrador" class="control-label">Administrador?</label>
+            <select asp-for="Admnistrador" class="form-control">
+                <option value="true">Sim</option>
+                <option value="false" selected>Não</option>
+            </select>
+            <span asp-validation-for="Admnistrador" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Cadastrar</button>
+        <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPArtial"/>
+    }
+}

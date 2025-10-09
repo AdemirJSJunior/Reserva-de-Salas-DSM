@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\TP2\\reserva-de-sala-dsm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11DD2368-8626-4348-995A-64A704077682}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\tp2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DD2368-8626-4348-995A-64A704077682}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T01:21:53.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
